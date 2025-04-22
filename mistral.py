@@ -63,3 +63,6 @@ def answer_question(question, chunks, index, embedding_model, top_k=3):
 question = "누수음 수집절차에 대해 설명해줘"
 answer = answer_question(question, chunks, index, embedding_model)
 print("▶ 답변:", answer)
+
+
+print(1)
